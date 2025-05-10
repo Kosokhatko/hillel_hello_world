@@ -26,12 +26,3 @@ digit5 = number % 10
 reversed_number = digit5 * 10000 + digit4 * 1000 + digit3 * 100 + digit2 * 10 + digit1
 
 print(reversed_number)
-
-
-
-
-
-
-
-
-
