@@ -1,7 +1,9 @@
-print("anything to be printed")
-help(print)
+# the very first lesson on Python
+# print("anything to be printed")
+# help(print)
 
 # Другий урок
+# the first assignment
 number: int = 13578
 
 num_1 = number // 1000
@@ -18,6 +20,7 @@ print(num_4)
 print("\n")
 
 # Виконуємо реверс
+# the second assignment
 number: int = 37568
 
 digit1 = number // 10000
