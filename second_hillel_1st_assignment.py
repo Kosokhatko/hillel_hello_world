@@ -1,6 +1,6 @@
 # Другий урок
 # the first assignment the first mod
-number: int = 13578
+number: int = 1357
 
 num_1 = number // 1000
 num_2 = (number // 100) % 10
