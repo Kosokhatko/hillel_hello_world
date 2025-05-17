@@ -61,3 +61,7 @@ result = [first_half, second_half]
 print(result)
 
 
+
+
+
+
