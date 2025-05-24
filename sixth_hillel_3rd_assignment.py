@@ -7,3 +7,5 @@ def multiply_digits(number):
             number //= 10
         number = product
     return number
+
+
