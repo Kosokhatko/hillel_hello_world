@@ -21,4 +21,4 @@ user_input = int(input("Введіть кількість секунд (від 0
 if 0 <= user_input < 8640000:
     print(format_time(user_input))
 else:
-    print("Число повинно бути від 0 до 8639999 включно.")
+    print("Число від 0 до 8639999 включно.")
