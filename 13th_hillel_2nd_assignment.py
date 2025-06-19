@@ -17,13 +17,13 @@ class Counter:
         if self.current < self.max_value:
             self.current += 1
         else:
-            raise ValueError("Достигнут максимум")
+            raise ValueError("Досягнуто максимум")
 
     def step_down(self):
         if self.current > self.min_value:
             self.current -= 1
         else:
-            raise ValueError("Достигнут минимум")
+            raise ValueError("Досягнуто мінімум")
 
     def get_current(self):
         return self.current
